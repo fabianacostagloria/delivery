@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Delivery App – Streamlined Ordering for Restaurants
 
 The **Delivery App** is a project designed to simplify the ordering process for restaurants and their customers. With a clean interface and optimized features, users can browse products, manage their cart, and send orders directly via WhatsApp.
