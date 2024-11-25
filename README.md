@@ -9,6 +9,7 @@ The **Delivery App** is a project designed to simplify the ordering process for 
 - [💻 About the Project](#-about-the-project)
 - [⚙️ Features](#%EF%B8%8F-features)
 - [🧭 Running the Application](#-running-the-application)
+- [🎨 Layout](#-layout)
 - [🚀 Technologies](#-technologies)
 - [👩‍💻 Author](#-author)
 - [📜 License](#-license)
@@ -60,6 +61,15 @@ Follow these steps to set up and run the application on your local machine:
 
 5. **Open the app**  
    - Use the QR Code generated in the terminal or Expo dashboard to launch the app on your mobile device.
+
+---
+
+## 🎨 Layout
+
+You can access the Delivery design on Figma!  
+[**Check it out here**](https://www.figma.com/design/XVmCQJyLdi5qU5XysE2Jg3/Delivery).  
+
+![App Preview](https://github.com/fabianacostagloria/delivery/blob/main/Delivery.png)
 
 ---
 
